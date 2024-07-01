@@ -66,7 +66,7 @@ setSlight(newSlider) }
           <h1 className="hotelTitle">Grand Hotel</h1>
           <div className="hotelAdress">
             <FaLocationArrow className="location"/>
-            <span>Elton st 125 New York</span>
+            <span>Elton st 125 New York/USA</span>
           </div>
           <span className="hotelDistance">
             Excellent location - 500m from center
